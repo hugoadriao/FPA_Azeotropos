@@ -5,18 +5,18 @@ Para a utilização em trabalhos:
 
 #### Descrição Geral:<h4>
 Antes de mais nada abra o arquivo “gera_teste.py”, este arquivo contém o padrão utilizado na criação das populações que também é o nome que deve ser dado aos arquivos txt que irão conter estas populações, ou seja, quando for perguntado “nome do arquivo” utilize um dos padrões listados.
-	<p>Exemplo:</p>
+	Exemplo:
 		```
-	<p>“gerar nova população?”</p>
-		```
-		```
-	<p>s</p>
+	“gerar nova população?”
 		```
 		```
-	<p>“nome do arquivo”</p>
+	s
 		```
 		```
-	<p>AC</p>
+	“nome do arquivo”
+		```
+		```
+	AC
 		```
 	<p>O algoritmo irá interpretar que a mistura problema é acetona-clorofórmio a 1Atm.</p>
 	<p>Para início do software execute o arquivo “principal.py”.</p>
@@ -24,22 +24,22 @@ Antes de mais nada abra o arquivo “gera_teste.py”, este arquivo contém o pa
 	<p>Caso seja de interesse realizar um teste com populações existentes:</p>
 	<p>Execute o arquivo “principal.py”</p>
 		```
-	<p>“gerar nova população?”</p>
+	“gerar nova população?”
 		```
 		```
-	<p>n</p>
+	n
 		```
 		```
-	<p>“nome do arquivo”</p>
+	“nome do arquivo”
 		```
 		```
-	<p>AC</p>
+	AC
 		```
 		```
-	<p>“nome do arquivo de resultados”</p>
+	“nome do arquivo de resultados”
 		```
 		```
-	<p>qualquer_coisa</p>
+	qualquer_coisa
 		```
 	<p>Seguindo os passos descritos anteriormente será salvo um resultado no arquivo “qualquer_coisa.txt” na pasta “result” para a população salva na pasta “populacao” no arquivo “AC.txt”.</p>
 	<p>As saídas nos arquivos resultado são:</p>
